@@ -22,7 +22,7 @@ It uses **data preprocessing, feature engineering, exploratory data analysis (ED
   1. **Linear Regression**
   2. **Decision Tree Regressor**
   3. **Random Forest Regressor**
-  4. *(Support for other regressors like XGBoost, CatBoost in imports)*
+  
   
 - **Model Evaluation**
   - Mean Squared Error (MSE)
